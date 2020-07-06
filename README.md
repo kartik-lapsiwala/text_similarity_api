@@ -15,12 +15,12 @@ This command will start the server on 0.0.0.0/5000
 
 This api has 3 end points.
 
-*register
+* register
 
-*detect
+* detect
 
-*refill
+* refill
 
-##Register takes 2 arguments
-  *username
-  *password
+## Register takes 2 arguments
+  * username
+  * password
