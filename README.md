@@ -13,6 +13,8 @@ This command will install the required packages
 
 This command will start the server on 0.0.0.0/5000
 
+This api uses scpacy library to perform nlp on two texts.
+
 This api has 3 end points.
 
 * register
