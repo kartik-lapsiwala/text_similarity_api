@@ -21,17 +21,17 @@ This api has 3 end points.
 
 * refill
 
-## Register takes 2 arguments
+### Register takes 2 arguments
   * username
   * password
   
-## Detect takes 4 arguments
+### Detect takes 4 arguments
  * username
  * password
  * text1
  * text2
  
-## Refill takes 3 arguments
+### Refill takes 3 arguments
  * username
  * password(which is admin password)
  * refill amount
